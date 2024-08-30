@@ -28,3 +28,6 @@ Removes a student from the system based on the student's ID.
 
 View All Students:
 Displays a list of all students in the system.
+
+
+******THE CODE IS EXPLAINED PART by PART******
